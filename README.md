@@ -113,10 +113,8 @@
 1. **Prerequisites**: Python 3.10+, pip/conda, ChromeDriver/GeckoDriver, Git, make (optional).
 2. **Clone & Env**:
    ```bash
-   git clone <repo-url>
-   cd mini_project-3
-   python -m venv .venv
-   .venv\\Scripts\\activate   # Windows
+   git clone https://github.com/gomathiraja1989/RedBus-Bus-Reviews
+   cd RedBus-Bus-Reviews
    pip install -r requirements.txt
    ```
 3. **Environment Variables** (`.env`):
@@ -159,4 +157,5 @@
 - **Unit Tests**: pytest suites for parsers, transformers, DB helpers.
 - **Integration**: Mock RedBus HTML to validate end-to-end ETL.
 - **UI Testing**: Streamlit `st.session_state` snapshots + manual regression.
+
 - **Data Quality Checks**: Null ratio thresholds, rating bounds, sentiment distribution sanity.
