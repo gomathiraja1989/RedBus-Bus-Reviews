@@ -1,0 +1,34 @@
+2025-11-14 15:55:34 | INFO | __main__ | Loading data\curated\buses.csv
+2025-11-14 15:55:34 | INFO | __main__ | Loading data\curated\reviews.csv
+2025-11-14 15:55:42 | INFO | __main__ | Loading data\curated\buses.csv
+2025-11-14 15:55:42 | INFO | __main__ | Loading data\curated\reviews.csv
+2025-11-14 15:55:42 | INFO | __main__ | Database load complete.
+2025-11-14 15:57:43 | INFO | __main__ | Loading data\curated\buses.csv
+2025-11-14 15:57:43 | INFO | __main__ | Loading data\curated\reviews.csv
+2025-11-14 15:58:00 | INFO | __main__ | Loading data\curated\buses.csv
+2025-11-14 15:58:00 | INFO | __main__ | Loading data\curated\reviews.csv
+2025-11-14 15:58:00 | INFO | __main__ | Database load complete.
+2025-11-14 15:58:34 | INFO | __main__ | Starting scraper for Chennai,Bangalore (2 days)
+2025-11-14 15:58:39 | INFO | src.scraper.redbus_scraper | Opening https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=14-NOV-2025
+2025-11-14 15:59:01 | INFO | __main__ | Starting scraper for Chennai,Bangalore (2 days)
+2025-11-14 15:59:02 | INFO | src.scraper.redbus_scraper | Opening https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=14-NOV-2025
+2025-11-14 15:59:25 | WARNING | src.scraper.redbus_scraper | Timed out waiting for bus list on https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=14-NOV-2025
+2025-11-14 15:59:25 | INFO | src.scraper.redbus_scraper | Opening https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=15-NOV-2025
+2025-11-14 15:59:48 | WARNING | src.scraper.redbus_scraper | Timed out waiting for bus list on https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=15-NOV-2025
+2025-11-14 15:59:50 | WARNING | src.scraper.redbus_scraper | No data scraped; returning empty dataset.
+2025-11-14 15:59:50 | INFO | src.scraper.redbus_scraper | Persisted 0 records -> D:\Important\documents\Data Analytics\Redbus_3\mini_project-3\data\raw\redbus_Chennai_Bangalore_2025-11-14T10-29-50Z.json
+2025-11-14 16:00:58 | INFO | __main__ | Starting scraper for Chennai,Bangalore (2 days)
+2025-11-14 16:00:59 | INFO | src.scraper.redbus_scraper | Opening https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=14-NOV-2025
+2025-11-14 16:01:22 | WARNING | src.scraper.redbus_scraper | Timed out waiting for bus list on https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=14-NOV-2025
+2025-11-14 16:01:22 | INFO | src.scraper.redbus_scraper | Opening https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=15-NOV-2025
+2025-11-14 16:01:45 | WARNING | src.scraper.redbus_scraper | Timed out waiting for bus list on https://www.redbus.in/search?fromCity=Chennai&toCity=Bangalore&doj=15-NOV-2025
+2025-11-14 16:01:47 | WARNING | src.scraper.redbus_scraper | No live data scraped; falling back to sample payload D:\Important\documents\Data Analytics\Redbus_3\mini_project-3\data\raw\sample_reviews.json
+2025-11-14 16:01:47 | INFO | src.scraper.redbus_scraper | Persisted 2 records -> D:\Important\documents\Data Analytics\Redbus_3\mini_project-3\data\raw\redbus_Chennai_Bangalore_2025-11-14T10-31-47Z.json
+2025-11-14 16:02:31 | INFO | __main__ | Loading redbus_Chennai_Bangalore_2025-11-14T10-29-50Z.json
+2025-11-14 16:02:31 | INFO | __main__ | Loading redbus_Chennai_Bangalore_2025-11-14T10-31-47Z.json
+2025-11-14 16:02:31 | INFO | __main__ | Loading sample_reviews.json
+2025-11-14 16:02:31 | INFO | __main__ | Wrote reviews -> data\curated\reviews.csv (2 rows)
+2025-11-14 16:02:31 | INFO | __main__ | Wrote buses -> data\curated\buses.csv (2 rows)
+2025-11-14 16:02:44 | INFO | __main__ | Loading data\curated\buses.csv
+2025-11-14 16:02:44 | INFO | __main__ | Loading data\curated\reviews.csv
+2025-11-14 16:02:44 | INFO | __main__ | Database load complete.

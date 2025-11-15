@@ -1,0 +1,3 @@
+bus_id,operator_name,bus_name,bus_type,route,avg_rating,rating_count,sentiment_positive,sentiment_negative
+SAMPLE123,Sample Travels,Sample AC Sleeper,AC Sleeper,Chennai → Bangalore,4.5,1,1.0,0.0
+SAMPLE124,CityLink,CityLink Express,Non-AC Seater,Hyderabad → Bangalore,2.5,1,0.0,1.0

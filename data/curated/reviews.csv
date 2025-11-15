@@ -1,0 +1,3 @@
+bus_id,operator_name,bus_name,bus_type,rating,rating_count,review_title,review_text,review_date,journey_date,route,sentiment,sentiment_score,scraped_at,source_file,review_length,review_word_count
+SAMPLE123,Sample Travels,Sample AC Sleeper,AC Sleeper,4.5,120,Great ride,Comfortable seats and punctual service. Highly recommend.,2024-10-01,2024-10-02,Chennai → Bangalore,positive,0.7264,2024-10-02T10-00-00Z,redbus_Chennai_Bangalore_2025-11-14T10-31-47Z.json,57,7
+SAMPLE124,CityLink,CityLink Express,Non-AC Seater,2.5,60,Average experience,Bus was delayed and seats were cramped.,2024-09-21,2024-09-22,Hyderabad → Bangalore,negative,-0.2263,2024-09-21T08-00-00Z,redbus_Chennai_Bangalore_2025-11-14T10-31-47Z.json,39,7

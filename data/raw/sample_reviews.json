@@ -1,0 +1,35 @@
+[
+  {
+    "bus_id": "SAMPLE123",
+    "operator_name": "Sample Travels",
+    "bus_name": "Sample AC Sleeper",
+    "bus_type": "AC Sleeper",
+    "rating": 4.5,
+    "rating_count": 120,
+    "review_title": "Great ride",
+    "review_text": "Comfortable seats and punctual service. Highly recommend.",
+    "review_date": "2024-10-01",
+    "journey_date": "2024-10-02",
+    "route": "Chennai → Bangalore",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "scraped_at": "2024-10-02T10-00-00Z"
+  },
+  {
+    "bus_id": "SAMPLE124",
+    "operator_name": "CityLink",
+    "bus_name": "CityLink Express",
+    "bus_type": "Non-AC Seater",
+    "rating": 2.5,
+    "rating_count": 60,
+    "review_title": "Average experience",
+    "review_text": "Bus was delayed and seats were cramped.",
+    "review_date": "2024-09-21",
+    "journey_date": "2024-09-22",
+    "route": "Hyderabad → Bangalore",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "scraped_at": "2024-09-21T08-00-00Z"
+  }
+]
+
